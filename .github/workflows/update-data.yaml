@@ -32,7 +32,7 @@ jobs:
           python-version: "3.x"
 
       - name: Fetch data and create JSON
-        run: python scripts/update_data.py
+        run: python scripts.py
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
