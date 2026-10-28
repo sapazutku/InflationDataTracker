@@ -1,0 +1,369 @@
+{
+  "version": 1,
+  "note": "Rates are percentages. Inflation is the annual rate of change.",
+  "updated": "2026-10",
+  "series": [
+    {
+      "id": "us.bis.cpi.annual",
+      "kind": "inflation",
+      "period": "annual",
+      "region": "US",
+      "provider": "BIS",
+      "name": {
+        "en": "US CPI",
+        "tr": "ABD TÜFE"
+      },
+      "points": [
+        {
+          "month": "2025-09",
+          "rate": 3.012677
+        },
+        {
+          "month": "2025-11",
+          "rate": 2.735084
+        },
+        {
+          "month": "2025-12",
+          "rate": 2.677081
+        },
+        {
+          "month": "2026-01",
+          "rate": 2.386431
+        },
+        {
+          "month": "2026-02",
+          "rate": 2.414113
+        },
+        {
+          "month": "2026-03",
+          "rate": 3.25642
+        },
+        {
+          "month": "2026-04",
+          "rate": 3.810845
+        },
+        {
+          "month": "2026-05",
+          "rate": 4.248674
+        },
+        {
+          "month": "2026-06",
+          "rate": 3.531425
+        },
+        {
+          "month": "2026-07",
+          "rate": 3.364825
+        },
+        {
+          "month": "2026-08",
+          "rate": 3.396548
+        }
+      ]
+    },
+    {
+      "id": "tr.bis.cpi.annual",
+      "kind": "inflation",
+      "period": "annual",
+      "region": "TR",
+      "provider": "BIS",
+      "name": {
+        "en": "Türkiye CPI",
+        "tr": "Türkiye TÜFE"
+      },
+      "points": [
+        {
+          "month": "2025-09",
+          "rate": 33.2940114719
+        },
+        {
+          "month": "2025-10",
+          "rate": 32.8668557228
+        },
+        {
+          "month": "2025-11",
+          "rate": 31.0748410984
+        },
+        {
+          "month": "2025-12",
+          "rate": 30.8923283161
+        },
+        {
+          "month": "2026-01",
+          "rate": 30.6527801241
+        },
+        {
+          "month": "2026-02",
+          "rate": 31.5348374549
+        },
+        {
+          "month": "2026-03",
+          "rate": 30.8654535273
+        },
+        {
+          "month": "2026-04",
+          "rate": 32.3717402433
+        },
+        {
+          "month": "2026-05",
+          "rate": 32.6148019946
+        },
+        {
+          "month": "2026-06",
+          "rate": 32.1090360322
+        },
+        {
+          "month": "2026-07",
+          "rate": 31.7540967906
+        },
+        {
+          "month": "2026-08",
+          "rate": 31.5073428209
+        }
+      ]
+    },
+    {
+      "id": "eu.eurostat.hicp.annual",
+      "kind": "inflation",
+      "period": "annual",
+      "region": "EU",
+      "provider": "Eurostat",
+      "name": {
+        "en": "EU HICP",
+        "tr": "AB HICP"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 2.5
+        },
+        {
+          "month": "2025-11",
+          "rate": 2.4
+        },
+        {
+          "month": "2025-12",
+          "rate": 2.3
+        },
+        {
+          "month": "2026-01",
+          "rate": 2.0
+        },
+        {
+          "month": "2026-02",
+          "rate": 2.1
+        },
+        {
+          "month": "2026-03",
+          "rate": 2.8
+        },
+        {
+          "month": "2026-04",
+          "rate": 3.2
+        },
+        {
+          "month": "2026-05",
+          "rate": 3.3
+        },
+        {
+          "month": "2026-06",
+          "rate": 2.9
+        },
+        {
+          "month": "2026-07",
+          "rate": 3.0
+        },
+        {
+          "month": "2026-08",
+          "rate": 3.2
+        },
+        {
+          "month": "2026-09",
+          "rate": 3.8
+        }
+      ]
+    },
+    {
+      "id": "us.bis.policy",
+      "kind": "interest",
+      "period": "annual",
+      "region": "US",
+      "provider": "BIS",
+      "name": {
+        "en": "US policy rate",
+        "tr": "ABD politika faizi"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 3.875
+        },
+        {
+          "month": "2025-11",
+          "rate": 3.875
+        },
+        {
+          "month": "2025-12",
+          "rate": 3.625
+        },
+        {
+          "month": "2026-01",
+          "rate": 3.625
+        },
+        {
+          "month": "2026-02",
+          "rate": 3.625
+        },
+        {
+          "month": "2026-03",
+          "rate": 3.625
+        },
+        {
+          "month": "2026-04",
+          "rate": 3.625
+        },
+        {
+          "month": "2026-05",
+          "rate": 3.625
+        },
+        {
+          "month": "2026-06",
+          "rate": 3.625
+        },
+        {
+          "month": "2026-07",
+          "rate": 3.625
+        },
+        {
+          "month": "2026-08",
+          "rate": 3.625
+        },
+        {
+          "month": "2026-09",
+          "rate": 3.875
+        }
+      ]
+    },
+    {
+      "id": "tr.bis.policy",
+      "kind": "interest",
+      "period": "annual",
+      "region": "TR",
+      "provider": "BIS",
+      "name": {
+        "en": "CBRT policy rate",
+        "tr": "TCMB politika faizi"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 39.5
+        },
+        {
+          "month": "2025-11",
+          "rate": 39.5
+        },
+        {
+          "month": "2025-12",
+          "rate": 38.0
+        },
+        {
+          "month": "2026-01",
+          "rate": 37.0
+        },
+        {
+          "month": "2026-02",
+          "rate": 37.0
+        },
+        {
+          "month": "2026-03",
+          "rate": 37.0
+        },
+        {
+          "month": "2026-04",
+          "rate": 37.0
+        },
+        {
+          "month": "2026-05",
+          "rate": 37.0
+        },
+        {
+          "month": "2026-06",
+          "rate": 37.0
+        },
+        {
+          "month": "2026-07",
+          "rate": 37.0
+        },
+        {
+          "month": "2026-08",
+          "rate": 37.0
+        },
+        {
+          "month": "2026-09",
+          "rate": 37.0
+        }
+      ]
+    },
+    {
+      "id": "eu.bis.policy",
+      "kind": "interest",
+      "period": "annual",
+      "region": "EU",
+      "provider": "BIS",
+      "name": {
+        "en": "Euro area policy rate",
+        "tr": "Euro Bölgesi politika faizi"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 2.0
+        },
+        {
+          "month": "2025-11",
+          "rate": 2.0
+        },
+        {
+          "month": "2025-12",
+          "rate": 2.0
+        },
+        {
+          "month": "2026-01",
+          "rate": 2.0
+        },
+        {
+          "month": "2026-02",
+          "rate": 2.0
+        },
+        {
+          "month": "2026-03",
+          "rate": 2.0
+        },
+        {
+          "month": "2026-04",
+          "rate": 2.0
+        },
+        {
+          "month": "2026-05",
+          "rate": 2.0
+        },
+        {
+          "month": "2026-06",
+          "rate": 2.25
+        },
+        {
+          "month": "2026-07",
+          "rate": 2.25
+        },
+        {
+          "month": "2026-08",
+          "rate": 2.25
+        },
+        {
+          "month": "2026-09",
+          "rate": 2.5
+        }
+      ]
+    }
+  ]
+}
