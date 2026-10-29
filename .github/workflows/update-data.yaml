@@ -1,6 +1,10 @@
 name: Update economic data
 
 on:
+  # Publishes the pages as soon as they change; data.json is regenerated on the way.
+  push:
+    branches: [main]
+    paths: ["pages/**"]
   workflow_dispatch:
   schedule:
     - cron: "17 6 * * 1"
