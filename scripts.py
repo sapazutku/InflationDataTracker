@@ -26,6 +26,12 @@ BIS_CPI_REGIONS = [
     "DE",
     "FR",
     "RU",
+    "ZA",
+    "AR",
+    "BR",
+    "IN",
+    "AU",
+    "MA",
 ]
 
 # BIS politika faizi serisi: M.<ülke kodları>
@@ -38,7 +44,14 @@ BIS_POLICY_REGIONS = [
     "CN",
     "RU",
     "XM",
+    "ZA",
+    "BR",
+    "IN",
+    "AU",
+    "MA",
 ]
+# Arjantin'in BIS politika faizi Haziran 2025'te durdu; eski bir rakam güncelmiş
+# gibi görünmesin diye alınmıyor.
 
 REGION_META = {
     "US": {
@@ -85,6 +98,36 @@ REGION_META = {
         "region": "RU",
         "en": "Russia",
         "tr": "Rusya",
+    },
+    "ZA": {
+        "region": "ZA",
+        "en": "South Africa",
+        "tr": "Güney Afrika",
+    },
+    "AR": {
+        "region": "AR",
+        "en": "Argentina",
+        "tr": "Arjantin",
+    },
+    "BR": {
+        "region": "BR",
+        "en": "Brazil",
+        "tr": "Brezilya",
+    },
+    "IN": {
+        "region": "IN",
+        "en": "India",
+        "tr": "Hindistan",
+    },
+    "AU": {
+        "region": "AU",
+        "en": "Australia",
+        "tr": "Avustralya",
+    },
+    "MA": {
+        "region": "MA",
+        "en": "Morocco",
+        "tr": "Fas",
     },
     "XM": {
         "region": "EU",

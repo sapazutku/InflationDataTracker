@@ -15,10 +15,6 @@
       },
       "points": [
         {
-          "month": "2025-09",
-          "rate": 3.012677
-        },
-        {
           "month": "2025-11",
           "rate": 2.735084
         },
@@ -57,6 +53,10 @@
         {
           "month": "2026-08",
           "rate": 3.396548
+        },
+        {
+          "month": "2026-09",
+          "rate": 3.737685
         }
       ]
     },
@@ -72,52 +72,52 @@
       },
       "points": [
         {
-          "month": "2025-09",
-          "rate": 33.2940114719
-        },
-        {
           "month": "2025-10",
-          "rate": 32.8668557228
+          "rate": 32.8760411563
         },
         {
           "month": "2025-11",
-          "rate": 31.0748410984
+          "rate": 31.0733109727
         },
         {
           "month": "2025-12",
-          "rate": 30.8923283161
+          "rate": 30.9024072098
         },
         {
           "month": "2026-01",
-          "rate": 30.6527801241
+          "rate": 30.6502596523
         },
         {
           "month": "2026-02",
-          "rate": 31.5348374549
+          "rate": 31.5376973176
         },
         {
           "month": "2026-03",
-          "rate": 30.8654535273
+          "rate": 30.8661926309
         },
         {
           "month": "2026-04",
-          "rate": 32.3717402433
+          "rate": 32.3744769874
         },
         {
           "month": "2026-05",
-          "rate": 32.6148019946
+          "rate": 32.6189985576
         },
         {
           "month": "2026-06",
-          "rate": 32.1090360322
+          "rate": 32.1036585366
         },
         {
           "month": "2026-07",
-          "rate": 31.7540967906
+          "rate": 31.7566221868
         },
         {
           "month": "2026-08",
-          "rate": 31.5073428209
+          "rate": 31.501902996
+        },
+        {
+          "month": "2026-09",
+          "rate": 29.7315182454
         }
       ]
     },
@@ -132,10 +132,6 @@
         "tr": "Birleşik Krallık TÜFE"
       },
       "points": [
-        {
-          "month": "2025-09",
-          "rate": 3.800298
-        },
         {
           "month": "2025-10",
           "rate": 3.555556
@@ -179,6 +175,10 @@
         {
           "month": "2026-08",
           "rate": 3.086863
+        },
+        {
+          "month": "2026-09",
+          "rate": 3.4458
         }
       ]
     },
@@ -193,10 +193,6 @@
         "tr": "İspanya TÜFE"
       },
       "points": [
-        {
-          "month": "2025-09",
-          "rate": 3.022971
-        },
         {
           "month": "2025-10",
           "rate": 3.089155
@@ -240,6 +236,10 @@
         {
           "month": "2026-08",
           "rate": 4.27824
+        },
+        {
+          "month": "2026-09",
+          "rate": 4.9161
         }
       ]
     },
@@ -254,14 +254,6 @@
         "tr": "Japonya TÜFE"
       },
       "points": [
-        {
-          "month": "2025-08",
-          "rate": 2.871795
-        },
-        {
-          "month": "2025-09",
-          "rate": 2.877698
-        },
         {
           "month": "2025-10",
           "rate": 2.860061
@@ -301,6 +293,14 @@
         {
           "month": "2026-07",
           "rate": 1.898102
+        },
+        {
+          "month": "2026-08",
+          "rate": 1.894317
+        },
+        {
+          "month": "2026-09",
+          "rate": 2.097902
         }
       ]
     },
@@ -315,10 +315,6 @@
         "tr": "Çin TÜFE"
       },
       "points": [
-        {
-          "month": "2025-09",
-          "rate": -0.299976
-        },
         {
           "month": "2025-10",
           "rate": 0.200019
@@ -362,6 +358,10 @@
         {
           "month": "2026-08",
           "rate": 0.8
+        },
+        {
+          "month": "2026-09",
+          "rate": 0.9
         }
       ]
     },
@@ -376,10 +376,6 @@
         "tr": "Almanya TÜFE"
       },
       "points": [
-        {
-          "month": "2025-09",
-          "rate": 2.422723
-        },
         {
           "month": "2025-10",
           "rate": 2.329451
@@ -423,6 +419,10 @@
         {
           "month": "2026-08",
           "rate": 2.861815
+        },
+        {
+          "month": "2026-09",
+          "rate": 3.262643
         }
       ]
     },
@@ -437,10 +437,6 @@
         "tr": "Fransa TÜFE"
       },
       "points": [
-        {
-          "month": "2025-09",
-          "rate": 1.153263
-        },
         {
           "month": "2025-10",
           "rate": 0.938162
@@ -484,6 +480,10 @@
         {
           "month": "2026-08",
           "rate": 2.357136
+        },
+        {
+          "month": "2026-09",
+          "rate": 3.080308
         }
       ]
     },
@@ -498,10 +498,6 @@
         "tr": "Rusya TÜFE"
       },
       "points": [
-        {
-          "month": "2025-09",
-          "rate": 7.969639
-        },
         {
           "month": "2025-10",
           "rate": 7.721281
@@ -545,6 +541,376 @@
         {
           "month": "2026-08",
           "rate": 6.34473
+        },
+        {
+          "month": "2026-09",
+          "rate": 6.362039
+        }
+      ]
+    },
+    {
+      "id": "za.bis.cpi.annual",
+      "kind": "inflation",
+      "period": "monthly",
+      "region": "ZA",
+      "provider": "BIS",
+      "name": {
+        "en": "South Africa CPI",
+        "tr": "Güney Afrika TÜFE"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 3.603607
+        },
+        {
+          "month": "2025-11",
+          "rate": 3.503496
+        },
+        {
+          "month": "2025-12",
+          "rate": 3.600003
+        },
+        {
+          "month": "2026-01",
+          "rate": 3.489524
+        },
+        {
+          "month": "2026-02",
+          "rate": 2.964414
+        },
+        {
+          "month": "2026-03",
+          "rate": 3.149615
+        },
+        {
+          "month": "2026-04",
+          "rate": 4.023563
+        },
+        {
+          "month": "2026-05",
+          "rate": 4.505402
+        },
+        {
+          "month": "2026-06",
+          "rate": 4.980491
+        },
+        {
+          "month": "2026-07",
+          "rate": 4.259433
+        },
+        {
+          "month": "2026-08",
+          "rate": 4.360471
+        },
+        {
+          "month": "2026-09",
+          "rate": 4.545433
+        }
+      ]
+    },
+    {
+      "id": "ar.bis.cpi.annual",
+      "kind": "inflation",
+      "period": "monthly",
+      "region": "AR",
+      "provider": "BIS",
+      "name": {
+        "en": "Argentina CPI",
+        "tr": "Arjantin TÜFE"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 31.9823541253
+        },
+        {
+          "month": "2025-11",
+          "rate": 31.8288201985
+        },
+        {
+          "month": "2025-12",
+          "rate": 31.7354833118
+        },
+        {
+          "month": "2026-01",
+          "rate": 32.697853016
+        },
+        {
+          "month": "2026-02",
+          "rate": 33.1924957754
+        },
+        {
+          "month": "2026-03",
+          "rate": 32.6237060325
+        },
+        {
+          "month": "2026-04",
+          "rate": 32.6330009517
+        },
+        {
+          "month": "2026-05",
+          "rate": 33.6455905018
+        },
+        {
+          "month": "2026-06",
+          "rate": 33.4386054336
+        },
+        {
+          "month": "2026-07",
+          "rate": 33.961758038
+        },
+        {
+          "month": "2026-08",
+          "rate": 33.6570706599
+        },
+        {
+          "month": "2026-09",
+          "rate": 33.541085325
+        }
+      ]
+    },
+    {
+      "id": "br.bis.cpi.annual",
+      "kind": "inflation",
+      "period": "monthly",
+      "region": "BR",
+      "provider": "BIS",
+      "name": {
+        "en": "Brazil CPI",
+        "tr": "Brezilya TÜFE"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 4.680811355
+        },
+        {
+          "month": "2025-11",
+          "rate": 4.4618356566
+        },
+        {
+          "month": "2025-12",
+          "rate": 4.2643849079
+        },
+        {
+          "month": "2026-01",
+          "rate": 4.4413512105
+        },
+        {
+          "month": "2026-02",
+          "rate": 3.8124969539
+        },
+        {
+          "month": "2026-03",
+          "rate": 4.1428469807
+        },
+        {
+          "month": "2026-04",
+          "rate": 4.3917196597
+        },
+        {
+          "month": "2026-05",
+          "rate": 4.7249068792
+        },
+        {
+          "month": "2026-06",
+          "rate": 4.6413275481
+        },
+        {
+          "month": "2026-07",
+          "rate": 4.4430246091
+        },
+        {
+          "month": "2026-08",
+          "rate": 4.223452726
+        },
+        {
+          "month": "2026-09",
+          "rate": 4.5761196628
+        }
+      ]
+    },
+    {
+      "id": "in.bis.cpi.annual",
+      "kind": "inflation",
+      "period": "monthly",
+      "region": "IN",
+      "provider": "BIS",
+      "name": {
+        "en": "India CPI",
+        "tr": "Hindistan TÜFE"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 0.038573
+        },
+        {
+          "month": "2025-11",
+          "rate": 0.492754
+        },
+        {
+          "month": "2025-12",
+          "rate": 1.166181
+        },
+        {
+          "month": "2026-01",
+          "rate": 2.734337
+        },
+        {
+          "month": "2026-02",
+          "rate": 3.207659
+        },
+        {
+          "month": "2026-03",
+          "rate": 3.402702
+        },
+        {
+          "month": "2026-04",
+          "rate": 3.484938
+        },
+        {
+          "month": "2026-05",
+          "rate": 3.935231
+        },
+        {
+          "month": "2026-06",
+          "rate": 4.38006
+        },
+        {
+          "month": "2026-07",
+          "rate": 4.450895
+        },
+        {
+          "month": "2026-08",
+          "rate": 4.819742
+        },
+        {
+          "month": "2026-09",
+          "rate": 5.542703
+        }
+      ]
+    },
+    {
+      "id": "au.bis.cpi.annual",
+      "kind": "inflation",
+      "period": "monthly",
+      "region": "AU",
+      "provider": "BIS",
+      "name": {
+        "en": "Australia CPI",
+        "tr": "Avustralya TÜFE"
+      },
+      "points": [
+        {
+          "month": "2025-07",
+          "rate": 3.218765
+        },
+        {
+          "month": "2025-08",
+          "rate": 3.218765
+        },
+        {
+          "month": "2025-09",
+          "rate": 3.218765
+        },
+        {
+          "month": "2025-10",
+          "rate": 3.625663
+        },
+        {
+          "month": "2025-11",
+          "rate": 3.625663
+        },
+        {
+          "month": "2025-12",
+          "rate": 3.625663
+        },
+        {
+          "month": "2026-01",
+          "rate": 4.09421
+        },
+        {
+          "month": "2026-02",
+          "rate": 4.09421
+        },
+        {
+          "month": "2026-03",
+          "rate": 4.09421
+        },
+        {
+          "month": "2026-04",
+          "rate": 3.941849
+        },
+        {
+          "month": "2026-05",
+          "rate": 3.941849
+        },
+        {
+          "month": "2026-06",
+          "rate": 3.941849
+        }
+      ]
+    },
+    {
+      "id": "ma.bis.cpi.annual",
+      "kind": "inflation",
+      "period": "monthly",
+      "region": "MA",
+      "provider": "BIS",
+      "name": {
+        "en": "Morocco CPI",
+        "tr": "Fas TÜFE"
+      },
+      "points": [
+        {
+          "month": "2025-08",
+          "rate": 0.2506
+        },
+        {
+          "month": "2025-09",
+          "rate": 0.4177
+        },
+        {
+          "month": "2025-10",
+          "rate": 0.0838
+        },
+        {
+          "month": "2025-11",
+          "rate": -0.3356
+        },
+        {
+          "month": "2025-12",
+          "rate": -0.2521
+        },
+        {
+          "month": "2026-01",
+          "rate": -0.7506
+        },
+        {
+          "month": "2026-02",
+          "rate": -0.5819
+        },
+        {
+          "month": "2026-03",
+          "rate": 0.9174
+        },
+        {
+          "month": "2026-04",
+          "rate": 1.6736
+        },
+        {
+          "month": "2026-05",
+          "rate": 1.1765
+        },
+        {
+          "month": "2026-06",
+          "rate": 0.3347
+        },
+        {
+          "month": "2026-07",
+          "rate": -0.5863
         }
       ]
     },
@@ -1033,6 +1399,311 @@
         {
           "month": "2026-09",
           "rate": 2.5
+        }
+      ]
+    },
+    {
+      "id": "za.bis.policy",
+      "kind": "interest",
+      "period": "monthly",
+      "region": "ZA",
+      "provider": "BIS",
+      "name": {
+        "en": "South Africa policy rate",
+        "tr": "Güney Afrika politika faizi"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 7.0
+        },
+        {
+          "month": "2025-11",
+          "rate": 6.75
+        },
+        {
+          "month": "2025-12",
+          "rate": 6.75
+        },
+        {
+          "month": "2026-01",
+          "rate": 6.75
+        },
+        {
+          "month": "2026-02",
+          "rate": 6.75
+        },
+        {
+          "month": "2026-03",
+          "rate": 6.75
+        },
+        {
+          "month": "2026-04",
+          "rate": 6.75
+        },
+        {
+          "month": "2026-05",
+          "rate": 7.0
+        },
+        {
+          "month": "2026-06",
+          "rate": 7.0
+        },
+        {
+          "month": "2026-07",
+          "rate": 7.0
+        },
+        {
+          "month": "2026-08",
+          "rate": 7.0
+        },
+        {
+          "month": "2026-09",
+          "rate": 7.25
+        }
+      ]
+    },
+    {
+      "id": "br.bis.policy",
+      "kind": "interest",
+      "period": "monthly",
+      "region": "BR",
+      "provider": "BIS",
+      "name": {
+        "en": "Brazil policy rate",
+        "tr": "Brezilya politika faizi"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 15.0
+        },
+        {
+          "month": "2025-11",
+          "rate": 15.0
+        },
+        {
+          "month": "2025-12",
+          "rate": 15.0
+        },
+        {
+          "month": "2026-01",
+          "rate": 15.0
+        },
+        {
+          "month": "2026-02",
+          "rate": 15.0
+        },
+        {
+          "month": "2026-03",
+          "rate": 14.75
+        },
+        {
+          "month": "2026-04",
+          "rate": 14.5
+        },
+        {
+          "month": "2026-05",
+          "rate": 14.5
+        },
+        {
+          "month": "2026-06",
+          "rate": 14.25
+        },
+        {
+          "month": "2026-07",
+          "rate": 14.25
+        },
+        {
+          "month": "2026-08",
+          "rate": 14.0
+        },
+        {
+          "month": "2026-09",
+          "rate": 13.75
+        }
+      ]
+    },
+    {
+      "id": "in.bis.policy",
+      "kind": "interest",
+      "period": "monthly",
+      "region": "IN",
+      "provider": "BIS",
+      "name": {
+        "en": "India policy rate",
+        "tr": "Hindistan politika faizi"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 5.5
+        },
+        {
+          "month": "2025-11",
+          "rate": 5.5
+        },
+        {
+          "month": "2025-12",
+          "rate": 5.25
+        },
+        {
+          "month": "2026-01",
+          "rate": 5.25
+        },
+        {
+          "month": "2026-02",
+          "rate": 5.25
+        },
+        {
+          "month": "2026-03",
+          "rate": 5.25
+        },
+        {
+          "month": "2026-04",
+          "rate": 5.25
+        },
+        {
+          "month": "2026-05",
+          "rate": 5.25
+        },
+        {
+          "month": "2026-06",
+          "rate": 5.25
+        },
+        {
+          "month": "2026-07",
+          "rate": 5.25
+        },
+        {
+          "month": "2026-08",
+          "rate": 5.25
+        },
+        {
+          "month": "2026-09",
+          "rate": 5.25
+        }
+      ]
+    },
+    {
+      "id": "au.bis.policy",
+      "kind": "interest",
+      "period": "monthly",
+      "region": "AU",
+      "provider": "BIS",
+      "name": {
+        "en": "Australia policy rate",
+        "tr": "Avustralya politika faizi"
+      },
+      "points": [
+        {
+          "month": "2025-10",
+          "rate": 3.6
+        },
+        {
+          "month": "2025-11",
+          "rate": 3.6
+        },
+        {
+          "month": "2025-12",
+          "rate": 3.6
+        },
+        {
+          "month": "2026-01",
+          "rate": 3.6
+        },
+        {
+          "month": "2026-02",
+          "rate": 3.85
+        },
+        {
+          "month": "2026-03",
+          "rate": 4.1
+        },
+        {
+          "month": "2026-04",
+          "rate": 4.1
+        },
+        {
+          "month": "2026-05",
+          "rate": 4.35
+        },
+        {
+          "month": "2026-06",
+          "rate": 4.35
+        },
+        {
+          "month": "2026-07",
+          "rate": 4.35
+        },
+        {
+          "month": "2026-08",
+          "rate": 4.35
+        },
+        {
+          "month": "2026-09",
+          "rate": 4.6
+        }
+      ]
+    },
+    {
+      "id": "ma.bis.policy",
+      "kind": "interest",
+      "period": "monthly",
+      "region": "MA",
+      "provider": "BIS",
+      "name": {
+        "en": "Morocco policy rate",
+        "tr": "Fas politika faizi"
+      },
+      "points": [
+        {
+          "month": "2025-09",
+          "rate": 2.25
+        },
+        {
+          "month": "2025-10",
+          "rate": 2.25
+        },
+        {
+          "month": "2025-11",
+          "rate": 2.25
+        },
+        {
+          "month": "2025-12",
+          "rate": 2.25
+        },
+        {
+          "month": "2026-01",
+          "rate": 2.25
+        },
+        {
+          "month": "2026-02",
+          "rate": 2.25
+        },
+        {
+          "month": "2026-03",
+          "rate": 2.25
+        },
+        {
+          "month": "2026-04",
+          "rate": 2.25
+        },
+        {
+          "month": "2026-05",
+          "rate": 2.25
+        },
+        {
+          "month": "2026-06",
+          "rate": 2.25
+        },
+        {
+          "month": "2026-07",
+          "rate": 2.25
+        },
+        {
+          "month": "2026-08",
+          "rate": 2.25
         }
       ]
     }
